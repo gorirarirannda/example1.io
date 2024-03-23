@@ -20,6 +20,7 @@ body{
     margin: auto;
     margin-bottom: 20px;
     background-color: deepskyblue;
+    font-family: 'UD Pゴシック';
 }
 .button_selector{
     display: flexbox block;
