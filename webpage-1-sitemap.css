@@ -1,0 +1,28 @@
+#contents{
+    background-color: whitesmoke;
+    width: auto;
+}
+#list_sitemap{
+    text-align: left;
+    background-color: whitesmoke;
+}
+#sitemap_title{
+    padding: 5px;
+    font-size: large;
+    text-align: center;
+    color: black;
+    background-color: pink;
+    width: 150px;
+}
+#sitemap_contents{
+    display: list-item;
+    text-align: left;
+    padding-left: 75px;
+    padding-bottom: 15px;
+}
+.content{
+    color: rgb(0, 10, 30);
+    text-decoration: none;
+    font-size: larger;
+    font-weight: bold;
+}

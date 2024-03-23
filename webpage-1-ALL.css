@@ -1,0 +1,57 @@
+body{
+    font-family: 'UD デジタル 教科書体 NP-B';
+}
+#header{
+    background-color: palegreen;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    height: 100px;
+}
+#title{
+    text-align: center;
+    font-size: xx-large;
+    border: solid white;
+    border-radius: 10px;
+    color: black;
+    text-decoration: none;
+    display: block;
+    width: 200px;
+    margin: auto;
+    margin-bottom: 20px;
+    background-color: deepskyblue;
+}
+.button_selector{
+    display: flexbox block;
+    border: solid white;
+    border-radius: 7.5px;
+    padding: 15px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background: deepskyblue;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    font-size: medium;
+}
+#contents{
+    background-color: cornflowerblue;
+    padding: 2px;
+    text-indent: 10px;
+}
+#footer{
+    background-color: grey;
+    margin-top: 10px;
+}
+#sitemap{
+    text-align: left;
+    margin: auto;
+    padding: 10px;
+}
+#sitemap_text{
+    display: block;
+    color: white;
+    font-size: medium;
+    text-decoration: none;
+}
