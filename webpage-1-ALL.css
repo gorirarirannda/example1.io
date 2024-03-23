@@ -37,13 +37,13 @@ body{
     font-size: medium;
 }
 #contents{
-    background-color: cornflowerblue;
+    background-color: lightblue;
     padding: 2px;
     text-indent: 10px;
 }
 #footer{
     background-color: grey;
-    margin-top: 10px;
+    margin-top: unset;
 }
 #sitemap{
     text-align: left;
